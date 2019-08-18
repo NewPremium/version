@@ -4,4 +4,6 @@
   <rtitdownload>https://github.com/NewPremium/Real-time_inspection_tester_V.2.0/releases/download/V.2.0-Portable/Real-time_inspection_tester.zip</rtitdownload>
   <rtitpath1>update\Real-time_inspection_tester.exe</rtitpath1>
   <rtitpath2>update</rtitpath2>
+  <rtitmainver>1.0</rtitmainver>
+  <rtitmainlink>https://github.com/NewPremium/Real-time_inspection_tester_Main_V.1.x/releases</rtitmainlink>
 </xml>
