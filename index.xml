@@ -6,4 +6,7 @@
   <rtitpath2>update</rtitpath2>
   <rtitmainver>1.0</rtitmainver>
   <rtitmainlink>https://github.com/NewPremium/Real-time_inspection_tester_Main_V.1.x/releases</rtitmainlink>
+  
+  <!-- Adaway for Windows -->
+  <afw>1.0</afw>
 </xml>
