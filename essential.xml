@@ -2,7 +2,7 @@
 
   <!-- Essential phone onetouch recovery/downgrade tool for OSX -->
   <eptfo>1.0</eptfo>
-  <eptfo_latest>https://github.com/NewPremium/Essentiel-PH1_Tool_for_OSX/release</eptfo_latest>
+  <eptfo_latest>https://github.com/NewPremium/Essentiel-PH1_Tool_for_OSX/releases</eptfo_latest>
   <eptfo_android_platform_tool>https://dl.google.com/android/repository/platform-tools-latest-darwin.zip</eptfo_android_platform_tool>
 
   <!-- Essential phone onetouch recovery/downgrade tool for Windows -->
