@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<xml>
 
-<!-- Essential phone onetouch recovery/downgrade tool for OSX -->
-<eptfo>1.0</eptfo>
-<eptfo_android_platform_tool>https://dl.google.com/android/repository/platform-tools-latest-darwin.zip</eptfo_android_platform_tool>
+  <!-- Essential phone onetouch recovery/downgrade tool for OSX -->
+  <eptfo>1.0</eptfo>
+  <eptfo_android_platform_tool>https://dl.google.com/android/repository/platform-tools-latest-darwin.zip</eptfo_android_platform_tool>
 
-<!-- Essential phone onetouch recovery/downgrade tool for Windows -->
-<eptfw>1.0</eptfw>
-<eptfw_android_platform_tool>https://dl.google.com/android/repository/platform-tools-latest-windows.zip</eptfw_android_platform_tool>
+  <!-- Essential phone onetouch recovery/downgrade tool for Windows -->
+  <eptfw>1.0</eptfw>
+  <eptfw_android_platform_tool>https://dl.google.com/android/repository/platform-tools-latest-windows.zip</eptfw_android_platform_tool>
+
+</xml>
